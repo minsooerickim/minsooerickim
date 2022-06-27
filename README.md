@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Minsoo!
+
+Full stack developer based in Southern California. My work codebase is not opensource but you can read more about what I do at [my portfolio site](https://minsoo.vercel.app/).  
+
+Feel free to reach out to [my portfolio site](mailto: minsooerickim@gmail.com); Glad you stopped by! 😄
+
+<a href="https://www.linkedin.com/in/minsookime/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px" /></a>
 <!--
 **minsooerickim/minsooerickim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
