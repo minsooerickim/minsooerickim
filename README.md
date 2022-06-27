@@ -4,7 +4,7 @@ I'm Minsoo!
 
 Full stack developer based in Southern California. My work codebase is not opensource but you can read more about what I do at [my portfolio site](https://minsoo.vercel.app/).  
 
-Feel free to reach out to [me](mailto:minsooerickim@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+Feel free to reach out to [me](mailto:minsooerickim@gmail.com)
 
 Glad you stopped by! 😄
 
