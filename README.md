@@ -2,7 +2,7 @@
 
 I'm Minsoo!
 
-Full stack engineer based in Southern California. My work codebase is not opensource but you can read more about what I do at [my portfolio site](https://minsoo.vercel.app/).  
+Software Engineer based in Southern California. My work codebase is not opensource but you can read more about what I do on my [LinkedIn](https://www.linkedin.com/in/minsookime/).  
 
 Feel free to reach out to [me](mailto:minsooerickim@gmail.com)
 
