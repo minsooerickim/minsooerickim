@@ -10,9 +10,13 @@ Glad you stopped by! 😄
 
 ⚡ Fun fact: I climb! Wow, what a surprise!
 
+<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=minsooerickim&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&bg_color=0D1117&text_color=F0F6FC" alt="minsooerickim's Github Stats">
+
+### Connect with me! 🤝
+
 <a href="https://www.linkedin.com/in/minsookime/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px" /></a>
 
-![](https://komarev.com/ghpvc/?username=minsooerickim&color=green)
+![](https://komarev.com/ghpvc/?username=minsooerickim&color=blue)
 <!--
 **minsooerickim/minsooerickim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
