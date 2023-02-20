@@ -10,7 +10,9 @@ Glad you stopped by! 😄
 
 ⚡ Fun fact: I climb! Wow, what a surprise!
 
-<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=minsooerickim&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&bg_color=0D1117&text_color=F0F6FC" alt="minsooerickim's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsooerickim&layout=compact&hide_border=true&bg_color=0D1117&text_color=F0F6FC" alt="Minsoo's most used languages">
+<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=minsooerickim&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&bg_color=0D1117&text_color=F0F6FC" alt="minsooerickim's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsooerickim&layout=compact&hide_border=true&hide_progress=true&bg_color=0D1117&text_color=F0F6FC" alt="Minsoo's most used languages">
+
+<!-- [![minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsooerickim)](https://github.com/minsooerickim/github-readme-stats) -->
 
 ### Connect with me! 🤝
 
