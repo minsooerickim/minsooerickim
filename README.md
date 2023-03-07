@@ -6,7 +6,7 @@
 Upcoming...
 - 🚗 Software Engineer Intern @ Uber (2023)
 
-Some of my work at UCR...
+<!-- Some of my work at UCR...
 - 💻 Lead Software Engineer for Citrus Hack
 - 💻 Lead Software Engineer for Cutie Hack
 - 💻 Software Engineer @ Prytaneum (UCR School of Public Policy)
@@ -15,19 +15,17 @@ Some of my work at UCR...
 - 🧑‍💼 Linux System Administrator for LockdownV13 (2nd place 🥈)
 - 💯 Grader for CS10B
 - 💯 Grader for CS100
-- 💰 Treasurer for CyberSecurity@UCR
+- 💰 Treasurer for CyberSecurity@UCR -->
 
 Previously...
 - 🚀 Software Engineer Intern @ Lawrence Livermore National Laboratory (2022)
 - 🌎 Software Engineer Intern @ Unifi (2021)
 
-Glad you stopped by! 😄
-
 ⚡ Fun fact: I climb! Wow, what a surprise!
 
 <img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=minsooerickim&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&bg_color=0D1117&text_color=F0F6FC" alt="minsooerickim's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsooerickim&layout=compact&hide_border=true&hide_progress=true&bg_color=0D1117&text_color=F0F6FC" alt="Minsoo's most used languages">
 
-[![minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsooerickim&bg_color=0D1117&text_color=F0F6FC)](https://github.com/minsooerickim/github-readme-stats)
+<!-- [![minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsooerickim&bg_color=0D1117&text_color=F0F6FC)](https://github.com/minsooerickim/github-readme-stats) -->
 
 <!-- ### Connect with me! 🤝 -->
 
