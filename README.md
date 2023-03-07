@@ -1,10 +1,25 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Minsoo+Kim)](https://git.io/typing-svg)
 
-I'm Minsoo!
+📚 Computer Science @ UC Riverside (Graduation 12/2023)
+[email](mailto:minsooerickim@gmail.com) [LinkedIn](https://www.linkedin.com/in/minsookime/).
 
-Software Engineer based in Southern California. My work codebase is not opensource but you can read more about what I do on my [LinkedIn](https://www.linkedin.com/in/minsookime/).  
+Upcoming...
+- 🚗 Software Engineer Intern @ Uber (2023)
 
-Feel free to reach out to [me](mailto:minsooerickim@gmail.com)
+Some of my work at UCR...
+- 💻 Lead Software Engineer for Citrus Hack
+- 💻 Lead Software Engineer for Cutie Hack
+- 💻 Software Engineer @ Prytaneum (UCR School of Public Policy)
+- 👨‍🎓 Undergraduate Learning Assistant (Tutor) for an upper-division CS course (CS100)
+- 🧑‍💼 Linux System Administrator for LockdownV12 (1st place 🥇) 
+- 🧑‍💼 Linux System Administrator for LockdownV13 (2nd place 🥈)
+- 💯 Grader for CS10B
+- 💯 Grader for CS100
+- 💰 Treasurer for CyberSecurity@UCR
+
+Previously...
+- 🚀 Software Engineer Intern @ Lawrence Livermore National Laboratory (2022)
+- 🌎 Software Engineer Intern @ Unifi (2021)
 
 Glad you stopped by! 😄
 
@@ -14,9 +29,9 @@ Glad you stopped by! 😄
 
 [![minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsooerickim&bg_color=0D1117&text_color=F0F6FC)](https://github.com/minsooerickim/github-readme-stats)
 
-### Connect with me! 🤝
+<!-- ### Connect with me! 🤝 -->
 
-<a href="https://www.linkedin.com/in/minsookime/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px" /></a>
+<!-- <a href="https://www.linkedin.com/in/minsookime/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px" /></a><a href="mailto:minsooerickim@gmail.com">📫</a> -->
 
 
 ![](https://komarev.com/ghpvc/?username=minsooerickim&color=blue)
