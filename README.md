@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Minsoo+Kim)](https://git.io/typing-svg)
 
 📚 Computer Science @ UC Riverside (Graduation 12/2023)
-[email](mailto:minsooerickim@gmail.com) [LinkedIn](https://www.linkedin.com/in/minsookime/).
 
 Upcoming...
 - 🚗 Software Engineer Intern @ Uber (2023)
@@ -27,10 +26,10 @@ Previously...
 
 <!-- [![minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsooerickim&bg_color=0D1117&text_color=F0F6FC)](https://github.com/minsooerickim/github-readme-stats) -->
 
-<!-- ### Connect with me! 🤝 -->
+### Connect with me! 🤝
+[E-mail](mailto:minsooerickim@gmail.com) • [LinkedIn](https://www.linkedin.com/in/minsookime/)
 
 <!-- <a href="https://www.linkedin.com/in/minsookime/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px" /></a><a href="mailto:minsooerickim@gmail.com">📫</a> -->
-
 
 ![](https://komarev.com/ghpvc/?username=minsooerickim&color=blue)
 <!--
