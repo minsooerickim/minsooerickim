@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Minsoo+Kim)](https://git.io/typing-svg)
 
-📚 Computer Science @ UC Riverside (Graduation 12/2023)
+📚 B.S Computer Science @ UC Riverside (9/2020~12/2023)
 
 Upcoming...
 - 🚗 Software Engineer Intern @ Uber (2023)
