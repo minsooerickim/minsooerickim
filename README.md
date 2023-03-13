@@ -27,7 +27,7 @@ Previously...
 <!-- [![minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsooerickim&bg_color=0D1117&text_color=F0F6FC)](https://github.com/minsooerickim/github-readme-stats) -->
 
 ### Connect with me! 🤝
-[E-mail](mailto:minsooerickim@gmail.com) • [LinkedIn](https://www.linkedin.com/in/minsookime/)
+[LinkedIn](https://www.linkedin.com/in/minsookime/) • [Website](https://minsoo.vercel.app/) • [E-mail](mailto:minsooerickim@gmail.com) 
 
 <!-- <a href="https://www.linkedin.com/in/minsookime/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px" /></a><a href="mailto:minsooerickim@gmail.com">📫</a> -->
 
