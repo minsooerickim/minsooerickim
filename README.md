@@ -36,13 +36,13 @@ Previously...
 <!-- [![minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsooerickim&bg_color=0D1117&text_color=F0F6FC)](https://github.com/minsooerickim/github-readme-stats) -->
 
 ### Connect with me! 🤝
-<a href="https://www.linkedin.com/in/minsookime/">
+<a href="https://www.linkedin.com/in/minsookime/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://minsoo.vercel.app/">
+<a href="https://minsoo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-<a href="mailto:minsooerickim@gmail.com">
+<a href="mailto:minsooerickim@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
