@@ -22,26 +22,26 @@ Previously...
 
 ⚡ Fun fact: I climb! Wow, what a surprise!
 
-<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=minsooerickim&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&bg_color=0D1117&text_color=F0F6FC" alt="minsooerickim's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsooerickim&layout=compact&hide_border=true&hide_progress=true&bg_color=0D1117&text_color=F0F6FC" alt="Minsoo's most used languages">
+<div align="center">
+  <p align="center" width="100%">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=minsooerickim&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" height="150em"/> 
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=minsooerickim&theme=codestackr&" height="150em"/>
+  </p>
+</div>
 
 <!-- [![minsoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minsooerickim&bg_color=0D1117&text_color=F0F6FC)](https://github.com/minsooerickim/github-readme-stats) -->
 
 ### Connect with me! 🤝
-[LinkedIn](https://www.linkedin.com/in/minsookime/) • [Website](https://minsoo.vercel.app/) • [E-mail](mailto:minsooerickim@gmail.com) 
+<a href="https://www.linkedin.com/in/minsookime/">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://minsoo.vercel.app/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+<a href="mailto:minsooerickim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 
-<!-- <a href="https://www.linkedin.com/in/minsookime/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px" /></a><a href="mailto:minsooerickim@gmail.com">📫</a> -->
+<br>
 
 ![](https://komarev.com/ghpvc/?username=minsooerickim&color=blue)
-<!--
-**minsooerickim/minsooerickim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
