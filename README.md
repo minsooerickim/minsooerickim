@@ -40,7 +40,7 @@ Previously...
 
 ##### Languages
 
-[![Languages](https://skillicons.dev/icons?i=py,ts,cpp,html,css,java,js,bash,scala,latex,md,regex&perline=10)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,ts,cpp,rust,html,css,java,js,bash,scala,latex,md,regex&perline=10)](https://skillicons.dev)
 
 <br>
 
