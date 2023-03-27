@@ -24,12 +24,35 @@ Previously...
 
 <br>
 
-<div align="center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=minsooerickim&theme=codestackr&" height="150em"/>
+
+<br>
+
+### Some of the tools I've been using recently 🧰
+[![Frontend](https://skillicons.dev/icons?i=react,next,angular,tailwind&perline=10)](https://skillicons.dev)
+
+<br>
+
+##### Backend
+[![Backend](https://skillicons.dev/icons?i=graphql,prisma,redis,firebase,mongo,postgres,mysql,sqlite,nodejs,fastapi,express,docker,vercel,heroku,jest,kubernetes&perline=10)](https://skillicons.dev)
+
+<br>
+
+##### Languages
+
+[![Languages](https://skillicons.dev/icons?i=py,ts,cpp,html,css,java,js,bash,scala,latex,md,regex&perline=10)](https://skillicons.dev)
+
+<br>
+
+##### Other Tools
+[![Other Tools](https://skillicons.dev/icons?i=postman,figma,linux,raspberrypi,aws,gcp,azure,nginx&perline=10)](https://skillicons.dev)
+
+<!-- <div align="center">
   <p align="center" width="100%">
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=minsooerickim&theme=codestackr&" height="150em"/>
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=minsooerickim&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" height="150em"/> 
   </p>
-</div>
+</div> -->
 
 <br>
 
