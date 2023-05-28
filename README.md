@@ -17,7 +17,7 @@ Upcoming...
 - 💰 Treasurer for CyberSecurity@UCR -->
 
 Previously...
-- 🍊 Lead Software Engineer @ Cutie Hack & Citrus Hack (2022-2023)
+- 🍊 Lead Software Engineer @ <span style="color:#F75E36FF">***Cutie Hack & Citrus Hack***</span> (2022-2023)
 - 🚀 Software Engineer Intern @ <span style="color:#F75E36FF">***Lawrence Livermore National Laboratory***</span> (2022)
 - 🌎 Software Engineer Intern @ <span style="color:#F75E36FF">***Unifi***</span> (2021)
 
