@@ -29,12 +29,12 @@ Previously...
 <br>
 
 ### Some of the tools I've been using recently 🧰
-[![Frontend](https://skillicons.dev/icons?i=react,next,angular,tailwind&perline=10)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=rust,rocket,next,angular,tailwind&perline=10)](https://skillicons.dev)
 
 <br>
 
 ##### Backend
-[![Backend](https://skillicons.dev/icons?i=graphql,prisma,redis,firebase,mongo,postgres,mysql,sqlite,nodejs,fastapi,express,docker,vercel,heroku,jest,kubernetes&perline=10)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=graphql,prisma,redis,firebase,mongo,postgres,mysql,sqlite,nodejs,fastapi,express,docker,vercel,heroku,jest,kubernetes,rocket&perline=10)](https://skillicons.dev)
 
 <br>
 
